@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : OnFire.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 19, 2025
 //
 // Brief Description : Debuff effect that deals DoT damage to an attackable periodically and causes moving attackables

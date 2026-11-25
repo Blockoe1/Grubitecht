@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Tile3DBrush.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 7, 2025
 //
 // Brief Description : A grid brush that can paint ground objects on a 3D tilemap.

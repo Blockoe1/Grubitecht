@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : AOEAttack.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Causes all attacks to deal damage to nearby attackables within a certain radius of the target

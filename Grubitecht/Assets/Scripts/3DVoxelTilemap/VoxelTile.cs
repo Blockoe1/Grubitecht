@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : VoxelTile.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 7, 2025
 //
 // Brief Description : Represents a tile on the voxel tilemap.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SubMenu.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Controls sub menus that pop up within the main and pause menus.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : UIObject.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : A UI object that can be spawned over a position at runtime.

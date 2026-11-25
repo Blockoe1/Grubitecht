@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Tile3D.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 6, 2025
 //
 // Brief Description : Foundational component for game objects that act as 3D tiles.

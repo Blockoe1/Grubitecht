@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : OccupyLayer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 17, 2025
 //
 // Brief Description : The layer of space this object occupies.

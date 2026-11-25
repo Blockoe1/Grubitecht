@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : AttackerMod.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Base class for components that add additional behaviour to the attacks of this object's 

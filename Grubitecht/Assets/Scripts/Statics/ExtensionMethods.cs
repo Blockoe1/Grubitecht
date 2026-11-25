@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ExtensionMethods.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 10, 2025
 //
 // Brief Description : Set of reusable extension methods that help with modifying certain data types.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : FaceLookup.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Separate class to handle getting the relevant vertex offsets of a face of a voxel mesh facing a

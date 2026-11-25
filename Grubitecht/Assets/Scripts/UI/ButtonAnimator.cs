@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : ButtonSelectAnimator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 3, 2025
 //
 // Brief Description : Animates the fill of an image based on the selected status of a button.
 *****************************************************************************/
-using Grubitecht.Audio;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,8 +16,8 @@ namespace Grubitecht.UI
     public class ButtonAnimator : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
     {
         [SerializeField] private Image targetImage;
-        [SerializeField] private Sound selectSound;
-        [SerializeField] private Sound clickSound;
+        //[SerializeField] private Sound selectSound;
+        //[SerializeField] private Sound clickSound;
         [Header("Settings")]
         [SerializeField] private float targetSelectedValue;
         [SerializeField] private float targetDeselectedValue;
@@ -33,7 +32,7 @@ namespace Grubitecht.UI
         /// <param name="eventData"></param>
         public void OnPointerEnter(PointerEventData eventData)
         {
-            AudioManager.PlaySoundAtPosition(selectSound, transform.position);
+            //AudioManager.PlaySoundAtPosition(selectSound, transform.position);
             AnimateTo(targetSelectedValue);
         }
         public void OnPointerExit(PointerEventData eventData)
@@ -88,7 +87,7 @@ namespace Grubitecht.UI
         public void OnPointerClick(PointerEventData eventData)
         {
             // Click sounds should always DontDestroyOnLoad in case the scene changes.
-            AudioManager.PlaySoundAtPosition(clickSound, transform.position, true);
+            //AudioManager.PlaySoundAtPosition(clickSound, transform.position, true);
         }
     }
 }

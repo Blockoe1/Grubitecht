@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : DebugBrushEditor.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Custom editor for debug brush.

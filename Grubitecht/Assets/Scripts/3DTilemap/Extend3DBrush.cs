@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Extend3DBrush.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 12, 2025
 //
 // Brief Description : A grid brush that paints 3D tiles and extends them downward.

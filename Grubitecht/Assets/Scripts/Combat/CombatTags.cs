@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CombatTags.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Set of special tags that can be added to combatants to differentiate them.

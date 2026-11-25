@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GridBehaviour.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 19, 2025
 //
 // Brief Description : Base class for objects that exist on the world grid.

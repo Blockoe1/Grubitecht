@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Injected.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Debuff effect that will cause damage after a set amount of time and will spawn a new tiphia 

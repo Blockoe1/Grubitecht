@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ObjectTweener.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 29, 2025
 //
 // Brief Description : Tween an object between its current position and a new position.

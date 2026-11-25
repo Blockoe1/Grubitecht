@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : IntValue.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Contains information about displaying an independent sprite on the info panel.

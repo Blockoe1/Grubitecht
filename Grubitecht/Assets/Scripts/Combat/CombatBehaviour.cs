@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CombatBehaviour.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Root class for components that interact with the game's combat system.

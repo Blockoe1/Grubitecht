@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CameraZoomer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 15, 2025
 //
 // Brief Description : Controls the zooming of the camera using the scroll wheel.

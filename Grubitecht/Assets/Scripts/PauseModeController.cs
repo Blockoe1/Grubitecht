@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : PauseModeController.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 4, 2025
 //
 // Brief Description : Controlls engaging and disengaging pause mode to pause gameplay.

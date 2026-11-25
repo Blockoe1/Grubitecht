@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : DebugHelpers.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 21, 2025
 //
 // Brief Description : Set of functions that can log more complex data types to the console.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : DamageNumber.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Controls prefabs that are used to indicate the damage dealt to combatants.

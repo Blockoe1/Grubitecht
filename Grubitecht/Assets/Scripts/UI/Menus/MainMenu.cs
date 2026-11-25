@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : MainMenu.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 28, 2025
 //
 // Brief Description : Controls the main menu buttons and their functionality.

@@ -1,12 +1,11 @@
 /*****************************************************************************
 // File Name : FlyingToggle.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 19, 2025
 //
 // Brief Description : Causes an enemy to periodically switch between walking grounded and flying.
 // Makes the assumption that enemies start out grounded.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.Combat;
 using Grubitecht.Tilemaps;
 using Grubitecht.World.Objects;
@@ -24,8 +23,8 @@ namespace Grubitecht.World
     {
         [SerializeField] private Animator animator;
         [Header("Sounds")]
-        [SerializeField] private Sound ascendSound;
-        [SerializeField] private Sound descendSound;
+        //[SerializeField] private Sound ascendSound;
+        //[SerializeField] private Sound descendSound;
         //[Header("Animation")]
         //[SerializeField] private float transitionTime;
         //[SerializeField] private AnimationCurve transitionCurve;
@@ -179,7 +178,7 @@ namespace Grubitecht.World
 
             animator.SetBool("IsFlying", true);
             // Plays a sound when this enemy switches to the flying state.
-            AudioManager.PlaySoundAtPosition(ascendSound, transform.position);
+            //AudioManager.PlaySoundAtPosition(ascendSound, transform.position);
 
             iterationLimit = 0;
         }
@@ -239,7 +238,7 @@ namespace Grubitecht.World
 
             animator.SetBool("IsFlying", false);
             // Plays a sound when this enemy switches to the flying state.
-            AudioManager.PlaySoundAtPosition(descendSound, transform.position);
+            //AudioManager.PlaySoundAtPosition(descendSound, transform.position);
 
             iterationLimit = 0;
         }

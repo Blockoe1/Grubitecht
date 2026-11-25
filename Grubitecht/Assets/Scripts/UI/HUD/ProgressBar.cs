@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ProgressBar.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Controls the UI progress bar that denotes the number of enemies left.

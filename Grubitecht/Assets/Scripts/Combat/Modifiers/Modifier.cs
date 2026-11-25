@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Modifier.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Root class for all modifiers that can be inflicted on combat behavours.

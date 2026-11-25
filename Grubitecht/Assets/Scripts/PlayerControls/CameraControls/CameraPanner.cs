@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CameraPanner.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Allows the player to pan the camera within certain bounds.

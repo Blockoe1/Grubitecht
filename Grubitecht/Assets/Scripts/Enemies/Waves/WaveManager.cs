@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : WaveManager.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 27, 2025
 //
 // Brief Description : Controls tracking enemies and coordinating when waves spawn and the delay between them.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CreditsManager.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 29, 2025
 //
 // Brief Description : Controls the progression of the credit sequence.

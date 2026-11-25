@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CardinalDirections.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Class that allows for easy access to the cardinal directions as a collection.

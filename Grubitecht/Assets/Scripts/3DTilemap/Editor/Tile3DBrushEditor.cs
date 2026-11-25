@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Tile3DBrushEditor.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 6, 2025
 //
 // Brief Description : custom editor for a 3D tile brush.

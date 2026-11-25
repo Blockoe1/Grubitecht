@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : HideUI.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 8, 2025
 //
 // Brief Description : Allows me to hide the UI with a keyboard input for capturing footage.

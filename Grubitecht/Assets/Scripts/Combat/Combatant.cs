@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Combatant.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Core class that contains universal information about the object when it takes part in combat.

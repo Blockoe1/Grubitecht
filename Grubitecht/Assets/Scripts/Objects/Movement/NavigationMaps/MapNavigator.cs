@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : MapNavigator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Allows a grid object to move along the grid using a navigation map.

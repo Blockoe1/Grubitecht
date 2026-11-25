@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : StringDisplayer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Controls the displaying of strings on the info panel.

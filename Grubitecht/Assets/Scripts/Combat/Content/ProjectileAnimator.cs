@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ProjectileAnimator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 28, 2025
 //
 // Brief Description : Animates a moving projectile object's local position based on the distance to the target.

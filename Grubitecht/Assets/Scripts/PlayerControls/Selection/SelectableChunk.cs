@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SelectableChunk.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Allows a chunk of the world to be selected.

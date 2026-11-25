@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Pathfinder.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 18, 2025
 //
 // Brief Description : Uses an A* Pathfinding algorith to  find a path connecting two points on the grid.

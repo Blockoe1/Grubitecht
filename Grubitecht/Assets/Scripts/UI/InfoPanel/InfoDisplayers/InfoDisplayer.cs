@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : InfoDisplayer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Generic class for components that display a specific type of value on the info panel.

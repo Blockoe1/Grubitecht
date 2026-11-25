@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Chunk.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : A portion of the world tilemap that is all rendered as one mesh.

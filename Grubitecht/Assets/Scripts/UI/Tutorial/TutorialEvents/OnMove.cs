@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : TutorialEvent.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Controls the events that trigger a tutorial as finished.

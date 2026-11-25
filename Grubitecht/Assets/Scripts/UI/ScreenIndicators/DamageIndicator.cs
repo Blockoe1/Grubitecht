@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : DamageIndicator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Displays changes to health for attackable objects.

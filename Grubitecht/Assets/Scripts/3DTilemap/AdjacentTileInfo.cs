@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : AdjacentTileInfo.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 12, 2025
 //
 // Brief Description : Custom dictionary style object (because dictionaries arent serializable) that stores data

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CanvasManager.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : manages visualizing UI objects at runtime.

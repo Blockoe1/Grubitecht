@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : GoliathCannons.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 19, 2025
 //
 // Brief Description : Controls the cannon attack of the tiphia goliath boss.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.World.Objects;
 using System.Collections;
 using System.Collections.Generic;
@@ -80,7 +79,7 @@ namespace Grubitecht.Combat
                     Quaternion.identity);
                 proj.Launch(target, ProjectileAttackAction);
                 // Plays sound effects for launching the projectiles.
-                AudioManager.PlaySoundAtPosition(projectileLaunchSfx, transform.position);
+                // AudioManager.PlaySoundAtPosition(projectileLaunchSfx, transform.position);
                 yield return new WaitForSeconds(cannonPeriod);
             }
             // Forces this attacker to cool down.

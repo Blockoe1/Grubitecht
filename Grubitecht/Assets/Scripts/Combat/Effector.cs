@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : Buffer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Base class for components that apply buffs to allies and debuffs to enemies.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.UI.InfoPanel;
 using Grubitecht.World.Objects;
 using UnityEngine;
@@ -18,7 +17,7 @@ namespace Grubitecht.Combat
         TargeterGeneric<T>
     {
         [SerializeField] private Modifier<T> appliedModifier;
-        [SerializeField] private Sound buffSound;
+        //[SerializeField] private Sound buffSound;
         #region Component References
         [SerializeReference, HideInInspector] private t targeter;
 
@@ -71,7 +70,7 @@ namespace Grubitecht.Combat
         protected virtual void ApplyBuff(T buffedTarget)
         {
             buffedTarget.ApplyModifier(appliedModifier);
-            AudioManager.PlaySoundAtPosition(buffSound, buffedTarget.transform.position);
+            //AudioManager.PlaySoundAtPosition(buffSound, buffedTarget.transform.position);
         }
         protected virtual void RemoveBuff(T buffedTarget)
         {

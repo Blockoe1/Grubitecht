@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : HealthBarManager.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 15, 2025
 //
 // Brief Description : Controls the creation of health bars for objectives.

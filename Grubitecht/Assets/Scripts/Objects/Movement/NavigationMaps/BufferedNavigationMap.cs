@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : BufferedNavigationMap.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 30, 2025
 //
 // Brief Description : Uses a pseudo-Dijkstra pathfinding algorith to construct a map of the level with distances

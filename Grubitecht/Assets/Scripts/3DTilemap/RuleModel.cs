@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : RuleModel.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 6, 2025
 //
 // Brief Description : Controls the composite model of this object that adapts to the placement of other similar

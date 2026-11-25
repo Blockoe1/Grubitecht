@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : Banner.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Banner of the grubs that empowers all nearby grub structures.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.UI.InfoPanel;
 using Grubitecht.World.Objects;
 using System.Collections.Generic;

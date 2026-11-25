@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : TutorializedObject.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Controls tuturoails that pop up for a given object.

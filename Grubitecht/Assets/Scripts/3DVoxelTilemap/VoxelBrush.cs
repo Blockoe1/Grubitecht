@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : VoxelBrush.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Brush for painting positions on the 3D mesh tilemap.

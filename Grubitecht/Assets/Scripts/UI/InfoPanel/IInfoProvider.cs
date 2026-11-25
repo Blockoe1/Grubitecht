@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : IInfoProvider.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 2nd, 2025
 //
 // Brief Description : Interface that allows component of amn object to provide information that is shown in the info 

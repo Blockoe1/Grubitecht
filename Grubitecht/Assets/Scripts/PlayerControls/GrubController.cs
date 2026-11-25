@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GridFollower.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 26, 2025
 //
 // Brief Description : Causes a grid object to follow another as it moves.

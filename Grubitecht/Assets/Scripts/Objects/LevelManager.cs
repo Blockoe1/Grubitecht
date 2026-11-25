@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : LevelManager.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Manages operations that should be carried out once per level.
 *****************************************************************************/
-using Grubitecht.Audio;
 using NaughtyAttributes;
 using UnityEngine;
 
@@ -19,9 +18,9 @@ namespace Grubitecht.World
         private int levelLossThreshold;
         [Header("Level End")]
         [SerializeField] private GameObject winLevelDisplay;
-        [SerializeField] private Sound winSound;
+        //[SerializeField] private Sound winSound;
         [SerializeField] private GameObject loseLevelDisplay;
-        [SerializeField] private Sound loseSound;
+        //[SerializeField] private Sound loseSound;
         private static LevelManager current;
         public static bool IsPlaying { get; private set; }
 
@@ -94,7 +93,7 @@ namespace Grubitecht.World
         public static void WinLevel()
         {
             Current.winLevelDisplay.SetActive(true);
-            AudioManager.PlaySoundAtPosition(Current.winSound, Current.transform.position);
+            //AudioManager.PlaySoundAtPosition(Current.winSound, Current.transform.position);
             IsPlaying = false;
         }
 
@@ -105,7 +104,7 @@ namespace Grubitecht.World
         public static void LoseLevel()
         {
             Current.loseLevelDisplay.SetActive(true);
-            AudioManager.PlaySoundAtPosition(Current.loseSound, Current.transform.position);
+            //AudioManager.PlaySoundAtPosition(Current.loseSound, Current.transform.position);
             IsPlaying = false;
         }
         #endregion

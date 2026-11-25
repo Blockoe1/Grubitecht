@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : TutorialText.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Controls tutorial text objects that are shown during the tutorial.

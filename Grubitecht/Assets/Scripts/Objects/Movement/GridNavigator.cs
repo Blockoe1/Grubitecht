@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GridNavigator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Base class for all components that control movement along the grid.

@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : Selector.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 17, 2025
 //
 // Brief Description : Allows player to select objects in the game world that they click on.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.Tilemaps;
 using Grubitecht.UI.InfoPanel;
 using Grubitecht.World;
@@ -25,7 +24,7 @@ namespace Grubitecht
     public class Selector : MonoBehaviour
     {
         [SerializeField] private SelectionIndicator[] selectionIndicators;
-        [SerializeField] private Sound selectSound;
+        //[SerializeField] private Sound selectSound;
         #region Component References
         [SerializeReference, HideInInspector] private Camera cam;
         #endregion
@@ -129,7 +128,7 @@ namespace Grubitecht
             {
                 if (clicked != null)
                 {
-                    AudioManager.PlaySoundAtPosition(selectSound, clicked.Position);
+                    //AudioManager.PlaySoundAtPosition(selectSound, clicked.Position);
                 }
                 CurrentSelection = clicked;
             }

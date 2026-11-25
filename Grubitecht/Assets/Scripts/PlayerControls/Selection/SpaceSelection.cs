@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SpaceSelection.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 21, 2025
 //
 // Brief Description : Represents a space in the world that the player has selected.  Dummy class created by the

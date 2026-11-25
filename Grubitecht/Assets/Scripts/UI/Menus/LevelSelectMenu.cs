@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : LevelSelecctMenu.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 18, 2025
 //
 // Brief Description : Controls navigating from the level select menu.

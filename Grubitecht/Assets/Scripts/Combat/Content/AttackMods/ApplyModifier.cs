@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ApplyModifier.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Attacker Mod that applies a modifier to the target attackable when they are attacked.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : MovableObject.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 17, 2025
 //
 // Brief Description : Allows an object to be selected and moved along the world grid by the player.

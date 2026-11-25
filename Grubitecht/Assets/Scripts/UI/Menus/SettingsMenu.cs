@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SettingsMenu.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 3, 2025
 //
 // Brief Description : Controls the settings menu and allows it to modify with game settings.

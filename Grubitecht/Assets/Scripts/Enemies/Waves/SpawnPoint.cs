@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SpawnPoint.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 27, 2025
 //
 // Brief Description : Spawns waves of enemies.

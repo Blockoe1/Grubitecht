@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CameraRotater.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Allows the player to rotate the camera around the center of the level.

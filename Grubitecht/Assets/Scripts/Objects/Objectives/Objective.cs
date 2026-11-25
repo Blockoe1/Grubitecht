@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Objective.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 19, 2025
 //
 // Brief Description : Controls objectives that enemies must destroy to defeat the player.

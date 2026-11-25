@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CompositeRuleTile3D.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 6, 2025
 //
 // Brief Description : Set of model information for creating 3D tilemaps.  This RuleMode creates a composite model

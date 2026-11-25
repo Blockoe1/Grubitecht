@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : AttackerTargeter.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Targeting system that targets nearby attacker objects.  Used by buffs.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : UISelectionIndicator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 17, 2025
 //
 // Brief Description : Indicates what object is selected through use of a UI object.

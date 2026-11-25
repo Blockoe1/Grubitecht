@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GameSettings.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 3, 2025
 //
 // Brief Description : Controls the settings that affect gameplay.

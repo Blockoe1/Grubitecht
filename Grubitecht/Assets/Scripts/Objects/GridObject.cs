@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GridObject.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 17, 2025
 //
 // Brief Description : Allows an object to take up space in the world grid.

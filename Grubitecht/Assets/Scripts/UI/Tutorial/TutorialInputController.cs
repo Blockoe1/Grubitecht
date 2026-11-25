@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : TutorialInputController.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Controls players inputting the default input to confirm continuing the tutorial.

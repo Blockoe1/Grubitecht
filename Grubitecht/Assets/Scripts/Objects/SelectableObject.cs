@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SelectableObject.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 25, 2025
 //
 // Brief Description : Allows an object to be selected and provide info about the object.

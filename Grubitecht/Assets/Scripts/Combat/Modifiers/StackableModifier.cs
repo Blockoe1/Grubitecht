@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : StackableBuff.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 7, 2025
 //
 // Brief Description : A modifier that can numerically stack on the same effect.
 *****************************************************************************/
-using Grubitecht.Audio;
 using UnityEngine;
 
 namespace Grubitecht.Combat

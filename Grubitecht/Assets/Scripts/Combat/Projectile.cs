@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Projectile.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 19, 2025
 //
 // Brief Description : A projectile launched by a projectile attacker.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GroundBrushEditor.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 12, 2025
 //
 // Brief Description : custom editor for the extend brush

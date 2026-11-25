@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Tilemap3DLayer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Additional component that allows a Tilemap to act as a 3D tilemap

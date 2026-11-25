@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : WorldSpaceCanvasManager.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Manages visualizing UI objects that exist in the world at runtime.

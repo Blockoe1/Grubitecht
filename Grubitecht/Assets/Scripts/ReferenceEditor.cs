@@ -1,6 +1,6 @@
 ﻿///*****************************************************************************
 //// File Name : ReferenceEditor.cs
-//// Author : Brandon Koederitz
+//// Author : Arcadia Koederitz
 //// Creation Date : March 23, 2025
 ////
 //// Brief Description : Made a copy of a custom editor from a plugin that I've used to use as a quick syntax reference 

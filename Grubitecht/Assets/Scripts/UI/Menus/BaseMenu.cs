@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : BaseMenu.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 29, 2025
 //
 // Brief Description : Controls the sub-menus of the main and pause menu.

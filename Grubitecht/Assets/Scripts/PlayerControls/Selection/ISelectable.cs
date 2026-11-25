@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ISelectable.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 17, 2025
 //
 // Brief Description : Interface for player selectable objects with their mouse at runtime.

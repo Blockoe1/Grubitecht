@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : WavePredictor.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 3, 2025
 //
 // Brief Description : Controller for UI objects that displays the next upcoming enemies in a wave.

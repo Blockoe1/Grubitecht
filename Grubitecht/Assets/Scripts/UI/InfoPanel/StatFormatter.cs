@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : StatFormatter.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 4, 2025
 //
 // Brief Description : A package of information that should be displayed about a stat on the info panel.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GrubController.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 26, 2025
 //
 // Brief Description : Controls the assignment of grubitechts.  Will spawn grubs to move objects visually and manages

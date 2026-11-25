@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : FinishGraphic.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 1, 2025
 //
 // Brief Description : Gives graphics

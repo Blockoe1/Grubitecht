@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : InfoDisplayerBase.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Base class for components that display a specific type of info value on the info panel.

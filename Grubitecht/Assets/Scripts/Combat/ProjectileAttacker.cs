@@ -1,12 +1,11 @@
 /*****************************************************************************
 // File Name : ProjectileAttacker.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 19, 2025
 //
 // Brief Description : Special attacker type that launches projectiles at their target periodically.
 // Main difference with projectile attackers is that their attacks are delayed until the projectile actually hits.
 *****************************************************************************/
-using Grubitecht.Audio;
 using UnityEngine;
 
 namespace Grubitecht.Combat
@@ -15,7 +14,7 @@ namespace Grubitecht.Combat
     public class ProjectileAttacker : Attacker
     {
         [Header("Projectile")]
-        [SerializeField] protected Sound projectileLaunchSfx;
+        //[SerializeField] protected Sound projectileLaunchSfx;
         [SerializeField] protected Projectile projectilePrefab;
         [SerializeField] protected Vector3 projectileOffset;
         /// <summary>
@@ -39,7 +38,7 @@ namespace Grubitecht.Combat
                 Quaternion.identity);
             proj.Launch(target, ProjectileAttackAction);
             // Plays sound effects for launching a projectile.
-            AudioManager.PlaySoundAtPosition(projectileLaunchSfx, transform.position);
+            //AudioManager.PlaySoundAtPosition(projectileLaunchSfx, transform.position);
             // Forces this attacker to cool down.
             StartCoroutine(Cooldown());
         }
@@ -61,7 +60,7 @@ namespace Grubitecht.Combat
                 Instantiate(attackEffects, target.transform.position, Quaternion.identity);
             }
             // Plays sound effect for hitting the enemy.
-            AudioManager.PlaySoundAtPosition(attackSfxName, target.transform.position);
+            //AudioManager.PlaySoundAtPosition(attackSfxName, target.transform.position);
         }
     }
 

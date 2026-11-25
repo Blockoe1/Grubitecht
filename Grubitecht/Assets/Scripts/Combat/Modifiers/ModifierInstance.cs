@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ModifierInstance.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : An instantiable set of class data for a specific modifier.

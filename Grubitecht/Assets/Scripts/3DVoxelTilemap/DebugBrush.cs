@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : DebugBrush.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 21, 2025
 //
 // Brief Description : Brush for debugging grid positions.

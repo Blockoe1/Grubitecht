@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : GateObjective.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 12, 2025
 //
 // Brief Description : Controls the gate objective in level 2.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Trigger.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Base class for special events that can trigger modifiers for a combatant.

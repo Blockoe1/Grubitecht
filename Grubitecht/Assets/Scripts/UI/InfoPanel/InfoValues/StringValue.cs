@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : StringValue.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Contains information about displaying a string on the info panel.

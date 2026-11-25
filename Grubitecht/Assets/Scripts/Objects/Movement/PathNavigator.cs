@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : PathNavigator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 18, 2025
 //
 // Brief Description : Allows a grid object to move along the grid using pathfinding.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.Tilemaps;
 using System;
 using System.Collections;
@@ -46,8 +45,8 @@ namespace Grubitecht.World.Pathfinding
         //"path, or immediately as soon as it starts moving.")]
         //    protected bool updateSpaceDuringPath;
         [Header("Sounds")]
-        [SerializeField] private Sound startMovingSound;
-        [SerializeField] private Sound endMovingSound;
+        //[SerializeField] private Sound startMovingSound;
+        //[SerializeField] private Sound endMovingSound;
 
         private List<VoxelTile> currentPath;
         private VoxelTile currentPathSpace;
@@ -126,7 +125,7 @@ namespace Grubitecht.World.Pathfinding
         private IEnumerator MovementRoutine(MovementFinishCallback finishCallback)
         {
             // Plays a sound for this object to start moving.
-            AudioManager.PlaySoundAtPosition(startMovingSound, transform.position);
+            //AudioManager.PlaySoundAtPosition(startMovingSound, transform.position);
             VoxelTile destination = null;
             void UpdateDirection()
             {
@@ -214,7 +213,7 @@ namespace Grubitecht.World.Pathfinding
             //}
             currentPathSpace = null;
             // Plays a sound for this object to start moving.
-            AudioManager.PlaySoundAtPosition(endMovingSound, transform.position);
+            //AudioManager.PlaySoundAtPosition(endMovingSound, transform.position);
             // Invoke the given finish callback.
             finishCallback?.Invoke(new PathCallbackInfo(PathStatus.Completed, startSpace, destination));
             movementRoutine = null;

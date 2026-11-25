@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : PopupDisplayer.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 4, 2025
 //
 // Brief Description : Displays an information popup for an object on the UI.

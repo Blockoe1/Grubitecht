@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : Attacker.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Base class for components that let an object attack and deal damage to attackable objects.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.UI.InfoPanel;
 using System;
 using System.Collections;
@@ -19,7 +18,7 @@ namespace Grubitecht.Combat
     {
         [Header("Effects")]
         [SerializeField] protected GameObject attackEffects;
-        [SerializeField] protected Sound attackSfxName;
+        //[SerializeField] protected Sound attackSfxName;
         [field: Header("Stats")]
         [field: SerializeField] public int AttackDamage { get; set; }
         [SerializeField] private StatFormatter attackDamageFormatter;
@@ -131,7 +130,7 @@ namespace Grubitecht.Combat
             { 
                 Instantiate(attackEffects, target.transform.position, Quaternion.identity);
             }
-            AudioManager.PlaySoundAtPosition(attackSfxName, target.transform.position);
+            //AudioManager.PlaySoundAtPosition(attackSfxName, target.transform.position);
             // Forces this attacker to cool down.
             StartCoroutine(Cooldown());
         }

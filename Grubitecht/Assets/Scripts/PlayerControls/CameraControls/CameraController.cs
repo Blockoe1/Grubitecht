@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : CameraController.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Base class for scripts that control the camera.

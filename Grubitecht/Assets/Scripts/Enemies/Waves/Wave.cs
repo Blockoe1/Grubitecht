@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Wave.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 27, 2025
 //
 // Brief Description : Contains informatoion on a wave of enemies that spawns from a spawn point.

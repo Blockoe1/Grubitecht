@@ -1,11 +1,10 @@
 /*****************************************************************************
 // File Name : EnemyMovement.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 19, 2025
 //
 // Brief Description : Controls enemy movement along the grid using pathfinding to the closest objective.
 *****************************************************************************/
-using Grubitecht.Audio;
 using Grubitecht.Combat;
 using Grubitecht.Tilemaps;
 using Grubitecht.Waves;
@@ -26,7 +25,7 @@ namespace Grubitecht.World
         private const string ENEMY_PARENT_TAG = "EnemyParent";
         #endregion
         [field: SerializeField] public Sprite EnemySpriteIcon { get; private set; }
-        [SerializeField] private Sound onSpawnSound;
+        //[SerializeField] private Sound onSpawnSound;
         [SerializeField] private PathingType pathingType;
         [SerializeField] private float rePathFrequency;
         [SerializeField] private bool canPanic;
@@ -337,7 +336,7 @@ namespace Grubitecht.World
         {
             targeter.OnGainTarget += HandleOnGainTarget;
             targeter.OnLoseTarget += HandleOnLoseTarget;
-            AudioManager.PlaySoundAtPosition(onSpawnSound, transform.position);
+            //AudioManager.PlaySoundAtPosition(onSpawnSound, transform.position);
             allEnemies.Add(this);
         }
         private void OnDestroy()

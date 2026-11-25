@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : ITriggeredModifier.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 13, 2025
 //
 // Brief Description : Interface for modifiers that trigger when a certain condition happens.

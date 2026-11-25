@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Tilemap3D.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 20, 2025
 //
 // Brief Description : Component that creates a composite tilemap mesh out of multiple positions painted on the world.

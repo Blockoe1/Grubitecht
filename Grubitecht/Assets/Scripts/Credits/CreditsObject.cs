@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Projectile.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 29, 2025
 //
 // Brief Description : Scrolls credit objects upward when they're spawned by the credits manager.

@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Targeter.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 23, 2025
 //
 // Brief Description : Root class for generic targeting systems that that can target specific components.

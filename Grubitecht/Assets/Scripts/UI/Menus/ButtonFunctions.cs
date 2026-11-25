@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name :ButtonFunctions.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 1, 2025
 //
 // Brief Description : Exposes a set of menu controls to buttons on the UI.

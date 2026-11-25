@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : Banner.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 17, 2025
 //
 // Brief Description : Structure type that can heal nearby objectives over time.
@@ -12,7 +12,6 @@ using UnityEngine;
 using Grubitecht.UI.InfoPanel;
 using System;
 using System.Linq;
-using Grubitecht.Audio;
 
 namespace Grubitecht.Combat
 {
@@ -20,7 +19,7 @@ namespace Grubitecht.Combat
     [RequireComponent(typeof(AttackableTargeter))]
     public class Healer : CombatBehaviour, IInfoProvider
     {
-        [SerializeField] private Sound healSound;
+        //[SerializeField] private Sound healSound;
         [field: Header("Stats")]
         [field: SerializeField] public int HealingStrength { get; set; }
         [SerializeField] private StatFormatter healingStrengthFormatter;
@@ -154,7 +153,7 @@ namespace Grubitecht.Combat
                 return;
             }
             // Plays a sound.
-            AudioManager.PlaySoundAtPosition(healSound, target.transform.position);
+            //AudioManager.PlaySoundAtPosition(healSound, target.transform.position);
             // Heals the target.
             target.ChangeHealth(HealingStrength);
             OnHeal?.Invoke(target);

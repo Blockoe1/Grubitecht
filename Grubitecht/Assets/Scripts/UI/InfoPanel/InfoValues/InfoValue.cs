@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : InfoValue.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Generic class that allows for easier implementation of InfoValues.

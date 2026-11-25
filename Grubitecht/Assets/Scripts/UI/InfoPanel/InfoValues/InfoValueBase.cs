@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : InfoValueBase.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 31, 2025
 //
 // Brief Description : Base class for values that are passed to the info panel to be displayed.  Used to allow for 

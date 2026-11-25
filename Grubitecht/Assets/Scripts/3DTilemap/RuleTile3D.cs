@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : RuleTile3D.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 6, 2025
 //
 // Brief Description : Set of model information for creating ground tilemaps in 3D space.

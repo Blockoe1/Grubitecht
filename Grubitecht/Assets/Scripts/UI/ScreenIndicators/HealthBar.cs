@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : HealthBar.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : April 15, 2025
 //
 // Brief Description : Controls health bars that show the current health percentage of the objectives.

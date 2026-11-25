@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : InfoPopup.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : May 4, 2025
 //
 // Brief Description : Allows an object to display a popup with information about that object when the mouse hovers

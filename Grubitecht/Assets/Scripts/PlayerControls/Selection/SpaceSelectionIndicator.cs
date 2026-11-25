@@ -1,6 +1,6 @@
 /*****************************************************************************
 // File Name : SpaceSelectionIndicator.cs
-// Author : Brandon Koederitz
+// Author : Arcadia Koederitz
 // Creation Date : March 21, 2025
 //
 // Brief Description : Indicates what space the player has selected.
