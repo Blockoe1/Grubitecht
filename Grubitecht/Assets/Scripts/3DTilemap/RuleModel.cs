@@ -7,7 +7,6 @@
 // rule models around it.
 *****************************************************************************/
 
-using NaughtyAttributes;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -20,7 +19,7 @@ namespace Grubitecht.OldTilemaps
 
         // model settings
         [SerializeField] private readonly Dictionary<RuleTile3D.ModelInfo, GameObject> activeModelDict = new();
-        [SerializeField, ReadOnly] private AdjacentTileInfo adjacentTileInfo;
+        [SerializeField] private AdjacentTileInfo adjacentTileInfo;
 
         //// Non-Composite model settings
         //private RuleTile3D.ModelInfo dominantModel;

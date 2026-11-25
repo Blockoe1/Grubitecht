@@ -8,7 +8,6 @@
 using Grubitecht.UI;
 using Grubitecht.UI.InfoPanel;
 using Grubitecht.World.Objects;
-using NaughtyAttributes;
 using System;
 using UnityEngine;
 
@@ -24,7 +23,7 @@ namespace Grubitecht.Combat
         [field: Header("Settings")]
         [field: SerializeField] public int MaxHealth { get; private set; }
         [SerializeField] private StatFormatter maxHealthFormatter;
-        [field: SerializeField, ReadOnly] public int Health { get; private set; }
+        [field: SerializeField] public int Health { get; private set; }
         [SerializeField] private bool destroyOnDeath;
         [SerializeField] private bool hasHealthBar;
 
@@ -106,7 +105,6 @@ namespace Grubitecht.Combat
         /// <summary>
         /// Handles behaviour that should happen when this object dies.
         /// </summary>
-        [Button]
         private void Die()
         {
             // Set this object as immune to modifiers on death in case any modifiers were intended to be added by the

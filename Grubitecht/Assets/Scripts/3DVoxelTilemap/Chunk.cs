@@ -6,7 +6,6 @@
 // Brief Description : A portion of the world tilemap that is all rendered as one mesh.
 *****************************************************************************/
 using UnityEngine;
-using NaughtyAttributes;
 using System.Collections.Generic;
 using UnityEngine.UIElements;
 
@@ -16,9 +15,9 @@ namespace Grubitecht.Tilemaps
     [RequireComponent(typeof(MeshRenderer))]
     public class Chunk : MonoBehaviour
     {
-        [field: SerializeReference, ReadOnly] public VoxelTilemap3D Tilemap { get; set; }
-        [field: SerializeField, ReadOnly] public Vector2Int ChunkPos { get; set; }
-        [field: SerializeField, ReadOnly] public string MeshPath { get; set; }
+        [field: SerializeReference] public VoxelTilemap3D Tilemap { get; set; }
+        [field: SerializeField] public Vector2Int ChunkPos { get; set; }
+        [field: SerializeField] public string MeshPath { get; set; }
 
         [SerializeField] private List<VoxelTile> tiles;
 

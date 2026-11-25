@@ -5,7 +5,6 @@
 //
 // Brief Description : Manages operations that should be carried out once per level.
 *****************************************************************************/
-using NaughtyAttributes;
 using UnityEngine;
 
 namespace Grubitecht.World
@@ -89,7 +88,6 @@ namespace Grubitecht.World
         /// <summary>
         /// Handles behaviour that should happen when you win a level.
         /// </summary>
-        [Button]
         public static void WinLevel()
         {
             Current.winLevelDisplay.SetActive(true);
@@ -100,7 +98,6 @@ namespace Grubitecht.World
         /// <summary>
         /// Handles behaviour that should happen when you lose a level.
         /// </summary>
-        [Button]
         public static void LoseLevel()
         {
             Current.loseLevelDisplay.SetActive(true);

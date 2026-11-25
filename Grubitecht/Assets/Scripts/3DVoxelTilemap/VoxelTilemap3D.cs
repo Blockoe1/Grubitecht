@@ -5,7 +5,6 @@
 //
 // Brief Description : Component that creates a composite tilemap mesh out of multiple positions painted on the world.
 *****************************************************************************/
-using NaughtyAttributes;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
@@ -36,7 +35,7 @@ namespace Grubitecht.Tilemaps
         private string meshFilePath;
         [Header("Chunks")]
         [SerializeField] private Chunk chunkPrefab;
-        [SerializeField, ReadOnly] private List<Chunk> chunks;
+        [SerializeField] private List<Chunk> chunks;
         [SerializeField] private int chunkSize = 16;
         [Header("Tilemap Settings.")]
         //[SerializeField] private List<VoxelTile> tiles;

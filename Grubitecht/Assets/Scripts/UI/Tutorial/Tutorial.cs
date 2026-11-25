@@ -7,7 +7,6 @@
 *****************************************************************************/
 using UnityEngine;
 using UnityEngine.Events;
-using NaughtyAttributes;
 using Grubitecht.World.Objects;
 using Grubitecht.Tilemaps;
 
@@ -18,15 +17,15 @@ namespace Grubitecht.UI.Tutorial
     {
         [SerializeField] private GameObject targetObject;
         [field: SerializeField] private bool targetChild;
-        [SerializeField, ShowIf("TargetChild"), AllowNesting] private int childIndex;
+        [SerializeField] private int childIndex;
         [SerializeField] private TutorialType type;
-        [SerializeField, ShowIf("type", TutorialType.Text), AllowNesting, TextArea] 
+        [SerializeField, TextArea] 
         private string tutorialText;
-        [SerializeField, ShowIf("type", TutorialType.Text), AllowNesting]
+        [SerializeField]
         private Vector2 tutorialDimensions;
-        [SerializeField, ShowIf("type", TutorialType.Text), AllowNesting]
+        [SerializeField]
         private Vector2 tutorialOffset;
-        [SerializeField, ShowIf("type", TutorialType.GameObject), AllowNesting] 
+        [SerializeField] 
         private TutorialUIObject tutorialPrefab;
 
         [SerializeField] private TutorialEvent finishEvent;
